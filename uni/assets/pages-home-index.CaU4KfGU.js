@@ -1,1 +1,0 @@
-import{r as o,o as s,a as n,b as t,c,w as a,i as r,d as _,e as l,f as u}from"./index-BIk9QEG5.js";const m={__name:"index",setup(d){return o(null),s(async()=>{}),n(()=>{}),t(()=>{}),(i,f)=>{const e=r;return _(),c(e,null,{default:a(()=>[l(e,{class:"card-list"},{default:a(()=>[u("home")]),_:1})]),_:1})}}};export{m as default};
