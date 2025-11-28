@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[571],{72675:function(o,t,n){n.r(t);var E=n(96237),u=n(25230),a=n(48502),s=function(){return(0,a.jsx)(u.x4,{status:"info",title:"404",description:"\u62B1\u6B49\uFF0C\u60A8\u8BBF\u95EE\u7684\u9875\u9762\u4E0D\u5B58\u5728\u3002"})};t.default=s}}]);
