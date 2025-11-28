@@ -1,0 +1,4 @@
+# 匹配/pages/movie/下的所有请求，转发到index.html（让uniapp接管路由）
+/* /index.html 200
+
+# 若整个uniapp部署在根目录，可写：/* /index.html 200
